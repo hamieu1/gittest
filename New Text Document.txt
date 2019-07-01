@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 asfsafdsafsafsf
 DaoMinhHa
 aaaaaaaaaaaaaaaaaaaaaaa
-=======
-asfsafdsafsafsf
->>>>>>> parent of 1806546... add
